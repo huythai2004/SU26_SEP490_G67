@@ -1,0 +1,17 @@
+# Secrets
+.env
+.env.*
+!.env.example
+!FE_SEP490_G67/.env.example
+
+# IDE
+.idea/
+.vscode/
+*.iml
+
+# Build / deps
+target/
+node_modules/
+dist/
+*.log
+.DS_Store
